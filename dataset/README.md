@@ -18,4 +18,4 @@
 - Loan Prediction dataset (Kaggle)
 
 ## 📄 Project Report
-[Click here to view full report](ml_project.pdf)
+[Click here to view full report](https://github.com/siriii04/Machine-Learning--Loan-Prediction-/blob/main/ml_project.pdf)
