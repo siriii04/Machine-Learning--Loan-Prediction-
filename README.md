@@ -24,7 +24,3 @@ This project predicts whether a loan will be approved or not using Machine Learn
 - Pandas
 - NumPy
 
-## 👨‍💻 Team Members
-- Siri Prakash (24BCS0072)
-- Venkatlakshmi T (24BCS0087)
-- Shreeyukti Gautam (24BCS0203)
