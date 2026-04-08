@@ -5,7 +5,7 @@
 
 ## 📈 Results
 - Accuracy: 0.78%
-- 
+
 ## 📂 Dataset
 - Loan Prediction dataset (Kaggle)
 
