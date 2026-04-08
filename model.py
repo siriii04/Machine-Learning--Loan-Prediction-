@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 # Load dataset
-data = pd.read_csv("train.csv")
+data = pd.read_csv("dataset/train_u6lujuX_CVtuZ9i.csv")
 
 # Fill missing values
 data.fillna(method='ffill', inplace=True)
